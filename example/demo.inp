@@ -1,0 +1,5 @@
+(fib 20)
+(hanoi 5 'source 'dest 'aux)
+(fib 25)
+(sqrt -3)
+!q
